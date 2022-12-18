@@ -9,7 +9,7 @@ function writePassword() {
   passwordText.value = password;
 
 }
-//random full number function, because math.random is confusing
+//random full number function, because math.random is confusing and dumb
 function randomInt(max) {
   var result = Math.random() * max;
   result = Math.floor(result);
