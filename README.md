@@ -13,7 +13,7 @@ You can view the published webpage [here](https://spawze.github.io/Password-Gene
 
 Press the red 'Generate Password' button to start generating a password. It will ask you how many characters you want (must be between 8 and 128 characters) and if you want the password to have lowercase, uppercase, numbers, and special characters. After all things are answered, the password will generate and display on the webpage.
 
-![Image of the top of the webpage with the navigation links highlighted](assets/styles/images/Screenshot_1.png)
+![Image of the webpage](assets/styles/images/Screenshot_1.png)
 
 
 ## Credits
