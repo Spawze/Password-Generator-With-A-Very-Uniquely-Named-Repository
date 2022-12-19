@@ -5,7 +5,7 @@ A small webpage that will generate a unique password using the answers the user 
 
 ## Installation
 
-Nothing special is needed to install. It's just an HTML, CSS, and some picture assets.
+Nothing special is needed to install. It's just an HTML, CSS, JS, and some picture assets.
 
 ## Usage
 
